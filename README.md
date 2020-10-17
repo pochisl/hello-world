@@ -1,2 +1,2 @@
 # hello-world
-my shit
+This is the first time I use this.
